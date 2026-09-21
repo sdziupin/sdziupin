@@ -1,33 +1,72 @@
-# Serhii Dziupin
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
+  <img alt="Serhii Dziupin" src="./assets/profile-light.svg" width="100%">
+</picture>
+
+<br>
 
 **Systems engineer, platform builder, technical lead.**
 
 I work where infrastructure, automation, developer experience, and product engineering meet.  
 Most of my work is about making complicated systems easier to **run, understand, debug, and change**.
 
-`Linux` · `Kubernetes` · `Terraform` · `Ansible` · `Python` · `AWS` · `Google Cloud` · `Proxmox` · `Cloudflare`
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Kubernetes-181717?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Terraform-181717?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Ansible-181717?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/Python-181717?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/AWS-181717?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Google_Cloud-181717?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Proxmox-181717?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
+  <img src="https://img.shields.io/badge/Cloudflare-181717?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+</p>
 
 ---
 
-## What I do
+## Focus
 
-**Platform & infrastructure**  
-Design and operate production platforms, container environments, virtualization, networking, and self-hosted infrastructure.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Automation & delivery**  
-Infrastructure as code, CI/CD, migrations, operational tooling, and removing repetitive work from engineering workflows.
+### Platform & infrastructure
+Production platforms, container environments, virtualization, networking, and self-hosted systems.
 
-**Reliability & observability**  
-Monitoring, telemetry, failure recovery, and systems that are understandable when something goes wrong.
+</td>
+<td width="50%" valign="top">
 
-**Technical leadership**  
-Architecture, technical direction, engineering practices, and staying close enough to the implementation to know where the sharp edges are.
+### Automation & delivery
+Infrastructure as code, CI/CD, migrations, operational tooling, and reducing repetitive work.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Reliability & observability
+Monitoring, telemetry, failure recovery, and systems that stay understandable under pressure.
+
+</td>
+<td width="50%" valign="top">
+
+### Technical leadership
+Architecture, technical direction, engineering practices, and hands-on delivery.
+
+</td>
+</tr>
+</table>
+
+> I like systems that are simple to operate, observable by default, and heavily automated.
 
 ---
 
 ## Experience
 
-| | |
+| Period | Role |
 |---|---|
 | **2022 — present** | **Senior DevOps Contractor · GoDaddy**<br>Cloud transformation, infrastructure automation, migrations, delivery systems, and reliability across hosting and mailbox platforms. |
 | **2020 — present** | **Co-Founder & Technology Lead · Ikrapka**<br>Technology strategy and platform architecture for accessibility, public-safety, and digital-service initiatives. |
@@ -42,17 +81,17 @@ Architecture, technical direction, engineering practices, and staying close enou
 <tr>
 <td width="50%" valign="top">
 
-**Infrastructure**
+### Infrastructure
 
-`Linux` `Docker` `Kubernetes` `k3s` `Proxmox`  
-`Terraform` `Ansible` `GitHub Actions`
+`Linux` · `Docker` · `Kubernetes` · `k3s` · `Proxmox`  
+`Terraform` · `Ansible` · `GitHub Actions`
 
 </td>
 <td width="50%" valign="top">
 
-**Cloud & networking**
+### Cloud & networking
 
-`AWS` `Google Cloud` `Cloudflare` `WireGuard`  
+`AWS` · `Google Cloud` · `Cloudflare` · `WireGuard`  
 DNS · reverse proxies · private networking
 
 </td>
@@ -60,17 +99,17 @@ DNS · reverse proxies · private networking
 <tr>
 <td width="50%" valign="top">
 
-**Automation**
+### Automation
 
-`Python` `PowerShell` `Bash` · APIs  
+`Python` · `PowerShell` · `Bash` · APIs  
 CI/CD · internal tooling · workflow automation
 
 </td>
 <td width="50%" valign="top">
 
-**Observability & systems**
+### Observability & systems
 
-`Prometheus` `Grafana` · telemetry  
+`Prometheus` · `Grafana` · telemetry  
 Developer tooling · LLM / agent integrations
 
 </td>
@@ -79,7 +118,7 @@ Developer tooling · LLM / agent integrations
 
 ---
 
-## How I tend to build
+## How I build
 
 - Automate the repeated operation, not the instructions for repeating it.
 - Prefer a small operational surface area and obvious failure modes.
@@ -91,7 +130,9 @@ Developer tooling · LLM / agent integrations
 
 ## Certifications
 
-**AWS Certified Solutions Architect**  
-**Google Cloud Associate Cloud Engineer**
+<p>
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect">
+  <img src="https://img.shields.io/badge/Google_Cloud-Associate_Cloud_Engineer-1A73E8?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Associate Cloud Engineer">
+</p>
 
 <sub>Architecture · Infrastructure · Automation · Engineering Leadership</sub>
