@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-2026-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-2026-light.svg">
-  <img alt="Serhii Dziupin" src="./assets/profile-hero-2026-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark-2026.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light-2026.jpg">
+  <img alt="Serhii Dziupin" src="./assets/profile-hero-light-2026.jpg" width="100%">
 </picture>
 
 <br>
