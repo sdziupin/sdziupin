@@ -1,0 +1,58 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="accent" x1="64" y1="48" x2="1180" y2="272" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#A371F7"/>
+      <stop offset="1" stop-color="#3FB950"/>
+    </linearGradient>
+    <linearGradient id="fadeLine" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#30363D" stop-opacity="0"/>
+      <stop offset="0.15" stop-color="#30363D"/>
+      <stop offset="0.85" stop-color="#30363D"/>
+      <stop offset="1" stop-color="#30363D" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#8B949E" stroke-opacity="0.08"/>
+    </pattern>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1020 78) rotate(145) scale(280 160)">
+      <stop stop-color="#58A6FF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 255) rotate(-150) scale(250 140)">
+      <stop stop-color="#A371F7" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#A371F7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="20" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="20" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="20" fill="url(#glowA)"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="20" fill="url(#glowB)"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="20" stroke="#30363D"/>
+  <rect x="72" y="62" width="6" height="122" rx="3" fill="url(#accent)"/>
+  <text x="104" y="108" fill="#F0F6FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" letter-spacing="-0.8">Serhii Dziupin</text>
+  <text x="104" y="141" fill="#B1BAC4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600">Systems engineer · Platform builder · Technical lead</text>
+  <text x="104" y="176" fill="#8B949E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">
+    <tspan x="104" dy="0">Infrastructure, automation, reliability, and developer systems.</tspan>
+    <tspan x="104" dy="24">I build things that are easier to run, easier to debug, and harder to break.</tspan>
+  </text>
+  <line x1="72" y1="224" x2="1208" y2="224" stroke="url(#fadeLine)"/>
+  <text x="104" y="258" fill="#C9D1D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Infrastructure</text>
+  <circle cx="220" cy="253" r="2.5" fill="#484F58"/>
+  <text x="236" y="258" fill="#C9D1D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Cloud</text>
+  <circle cx="308" cy="253" r="2.5" fill="#484F58"/>
+  <text x="324" y="258" fill="#C9D1D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Automation</text>
+  <circle cx="442" cy="253" r="2.5" fill="#484F58"/>
+  <text x="458" y="258" fill="#C9D1D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Observability</text>
+  <circle cx="595" cy="253" r="2.5" fill="#484F58"/>
+  <text x="611" y="258" fill="#C9D1D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Developer Experience</text>
+  <g opacity="0.95">
+    <path d="M1014 94L1064 118L1038 167L985 147L1014 94Z" stroke="url(#accent)" stroke-width="2" fill="none"/>
+    <circle cx="1014" cy="94" r="4.5" fill="#58A6FF"/>
+    <circle cx="1064" cy="118" r="4.5" fill="#A371F7"/>
+    <circle cx="1038" cy="167" r="4.5" fill="#3FB950"/>
+    <circle cx="985" cy="147" r="4.5" fill="#58A6FF"/>
+    <circle cx="1118" cy="98" r="30" fill="#58A6FF" fill-opacity="0.08" stroke="#58A6FF" stroke-opacity="0.35"/>
+    <circle cx="1150" cy="150" r="21" fill="#A371F7" fill-opacity="0.08" stroke="#A371F7" stroke-opacity="0.30"/>
+    <circle cx="1096" cy="180" r="16" fill="#3FB950" fill-opacity="0.08" stroke="#3FB950" stroke-opacity="0.30"/>
+  </g>
+</svg>
