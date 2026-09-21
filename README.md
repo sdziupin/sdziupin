@@ -1,142 +1,77 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img alt="Serhii Dziupin — Engineering Leader and Systems Builder" src="./assets/profile-light.svg" width="100%">
-</picture>
+# Serhii Dziupin
 
-<br>
+**Systems engineer, platform builder, technical lead.**
 
-<div align="center">
+I work where infrastructure, automation, developer experience, and product engineering meet.  
+Most of my work is about making complicated systems easier to **run, understand, debug, and change**.
 
-**Hands-on engineering across infrastructure, platforms, automation, developer experience, and reliable production systems.**
-
-I work comfortably between architecture, implementation, and technical leadership — from Linux and networking to cloud platforms and engineering teams.
-
-<br>
-
-<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
-<img src="https://img.shields.io/badge/Terraform-111827?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
-<img src="https://img.shields.io/badge/Ansible-111827?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Proxmox-111827?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox">
-<img src="https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
-
-</div>
+`Linux` · `Kubernetes` · `Terraform` · `Ansible` · `Python` · `AWS` · `Google Cloud` · `Proxmox` · `Cloudflare`
 
 ---
 
-## Engineering focus
+## What I do
 
-<table>
-<tr>
-<td width="25%" valign="top">
+**Platform & infrastructure**  
+Design and operate production platforms, container environments, virtualization, networking, and self-hosted infrastructure.
 
-**Platform Engineering**
+**Automation & delivery**  
+Infrastructure as code, CI/CD, migrations, operational tooling, and removing repetitive work from engineering workflows.
 
-Production platforms, container orchestration, virtualization, self-hosted infrastructure.
+**Reliability & observability**  
+Monitoring, telemetry, failure recovery, and systems that are understandable when something goes wrong.
 
-</td>
-<td width="25%" valign="top">
-
-**Cloud & DevOps**
-
-Cloud architecture, infrastructure as code, CI/CD, migrations, operational automation.
-
-</td>
-<td width="25%" valign="top">
-
-**Reliability**
-
-Observability, monitoring, repeatable operations, failure recovery, pragmatic system design.
-
-</td>
-<td width="25%" valign="top">
-
-**Developer Systems**
-
-Developer experience, internal tooling, workflow automation, LLM and agent integrations.
-
-</td>
-</tr>
-</table>
-
-> I like systems that are simple to operate, easy to understand, observable by default, and heavily automated.
+**Technical leadership**  
+Architecture, technical direction, engineering practices, and staying close enough to the implementation to know where the sharp edges are.
 
 ---
 
 ## Experience
 
-<table>
-<tr>
-<td width="145" valign="top"><strong>2022 — present</strong></td>
-<td valign="top">
-<strong>Senior DevOps Contractor · GoDaddy</strong><br>
-Supporting automation and cloud transformation across hosting and mailbox platforms, with hands-on work in infrastructure, migrations, delivery automation, reliability, and reducing operational complexity.
-</td>
-</tr>
-<tr>
-<td width="145" valign="top"><strong>2020 — present</strong></td>
-<td valign="top">
-<strong>Co-Founder & Technology Lead · Ikrapka</strong><br>
-Leading technology strategy and platform architecture for socially impactful initiatives focused on accessibility, public safety, and digital services. The role spans technical direction, architecture, hands-on engineering, and partnership development.
-</td>
-</tr>
-<tr>
-<td width="145" valign="top"><strong>2013 — present</strong></td>
-<td valign="top">
-<strong>CEO · Co-Founder · Solutions Architect · MakeIT.technology</strong><br>
-Co-founded and led an automation-first technology company delivering cloud, infrastructure, and software solutions for SMEs and enterprise customers. Combined business leadership with hands-on systems architecture, infrastructure automation, engineering practices, and delivery.
-</td>
-</tr>
-<tr>
-<td width="145" valign="top"><strong>2012 — 2019</strong></td>
-<td valign="top">
-<strong>Co-Founder & CTO · GPS-Ukraine</strong><br>
-Co-founded and built an IoT / fleet-management SaaS platform from concept to a production system serving hundreds of enterprise customers. Owned technical direction across system architecture, infrastructure, platform operations, and product engineering.
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **2022 — present** | **Senior DevOps Contractor · GoDaddy**<br>Cloud transformation, infrastructure automation, migrations, delivery systems, and reliability across hosting and mailbox platforms. |
+| **2020 — present** | **Co-Founder & Technology Lead · Ikrapka**<br>Technology strategy and platform architecture for accessibility, public-safety, and digital-service initiatives. |
+| **2013 — present** | **Co-Founder · CEO · Solutions Architect · MakeIT.technology**<br>Built and led an automation-first technology company delivering infrastructure, cloud, and software systems for SME and enterprise customers. |
+| **2012 — 2019** | **Co-Founder & CTO · GPS-Ukraine**<br>Built an IoT and fleet-management SaaS platform from the ground up, from architecture and infrastructure to production operations and product engineering. |
 
 ---
 
-## Core stack
+## Toolbox
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Infrastructure & Platform
+**Infrastructure**
 
-`Linux` · `Docker` · `Kubernetes` · `k3s` · `Proxmox`  
-`Terraform` · `Ansible` · `CI/CD` · `GitHub Actions`
+`Linux` `Docker` `Kubernetes` `k3s` `Proxmox`  
+`Terraform` `Ansible` `GitHub Actions`
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Cloud & Networking
+**Cloud & networking**
 
-`AWS` · `Google Cloud` · `Cloudflare` · `WireGuard`  
-Reverse proxies · DNS & networking · Self-hosted infrastructure
+`AWS` `Google Cloud` `Cloudflare` `WireGuard`  
+DNS · reverse proxies · private networking
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Software & Automation
+**Automation**
 
-`Python` · `PowerShell` · `Bash` · APIs  
-Automation tooling · Arduino / embedded experiments
+`Python` `PowerShell` `Bash` · APIs  
+CI/CD · internal tooling · workflow automation
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" valign="top">
 
-### Observability & Systems
+**Observability & systems**
 
-`Prometheus` · `Grafana` · metrics & telemetry  
-Reliability engineering · developer tooling · LLM / agent integrations
+`Prometheus` `Grafana` · telemetry  
+Developer tooling · LLM / agent integrations
 
 </td>
 </tr>
@@ -144,27 +79,19 @@ Reliability engineering · developer tooling · LLM / agent integrations
 
 ---
 
-## How I build
+## How I tend to build
 
-- **Automate repetitive work** instead of documenting how to repeat it.
-- **Prefer simple, observable systems** over clever infrastructure.
-- **Treat developer experience as architecture**, not polish added later.
-- **Design for failure and recovery**, not only for the happy path.
-- **Stay hands-on** even when the work is architecture or leadership.
+- Automate the repeated operation, not the instructions for repeating it.
+- Prefer a small operational surface area and obvious failure modes.
+- Make systems observable before they become difficult to operate.
+- Treat developer experience as part of architecture.
+- Stay hands-on when the role becomes architectural or managerial.
 
 ---
 
 ## Certifications
 
-<div>
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect">
-  <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Associate Cloud Engineer">
-</div>
+**AWS Certified Solutions Architect**  
+**Google Cloud Associate Cloud Engineer**
 
----
-
-<div align="center">
-
-<sub><strong>Architecture · Infrastructure · Automation · Engineering Leadership</strong></sub>
-
-</div>
+<sub>Architecture · Infrastructure · Automation · Engineering Leadership</sub>
